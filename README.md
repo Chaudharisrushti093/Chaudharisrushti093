@@ -4,7 +4,8 @@ Hi, I'm Srushti Chaudhari 👋
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Cloud+Computing+Student;Aspiring+Cloud+Engineer;AWS+Enthusiast;Learning+Cloud+%26+DevOps" alt="Typing SVG" />
 </p><p align="center">
   ☁️ Cloud Computing Student &nbsp; | &nbsp; 💻 AWS Enthusiast &nbsp; | &nbsp; 🚀 Aspiring Cloud Engineer
-</p>---
+</p>
+---
 
 👩‍💻 About Me
 
