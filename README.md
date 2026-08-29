@@ -14,7 +14,6 @@ I'm a Cloud Computing student passionate about cloud technologies, AWS, virtuali
 - 💻 Programming knowledge in Python, Java & R
 - 🐧 Basic knowledge of Linux
 - 🖥️ Able to create and manage Virtual Machines
-- 🔧 Interested in Cloud Infrastructure & DevOps
 - 📚 Continuously learning new technologies through practical projects
 
 ---
@@ -84,20 +83,12 @@ The project included:
 
 - Advanced AWS Services
 - Cloud Architecture
-- DevOps Fundamentals
 - Linux
 - Networking
 - Python & Java
 - Virtualization
 
 ---
-
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaudharisrushti093&show_icons=true&theme=default&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaudharisrushti093&layout=compact&hide_border=true" height="170"/>
-</p>---
 
 📈 Contribution
 
